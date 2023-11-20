@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$branch_name"
+echo "deployed to $branch_name environment"
